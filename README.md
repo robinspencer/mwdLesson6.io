@@ -1,7 +1,7 @@
 <h1>Loop</h1>
 
 <h2>Contents</h2> 
-<ul>
+<ul class="nav">
  <li>	Career</li>
  <li>	Reformation</li>
  <li>	Discography</li>
@@ -13,36 +13,34 @@
 
 <h3>Members</h3>
 <h4>Current line-up:</h4>
-
-<p>Robert Hampson (vocals, guitars)</p>
-<p>Hugo Morgan (bass)</p>
-<p>Dan Boyd (guitar)</p>
-<p>Wayne Maskel (drums)</p>
+<ul class="members">
+<li>Robert Hampson (vocals, guitars)</li>
+<li>Hugo Morgan (bass)</li>
+<li>Dan Boyd (guitar)</li>
+<li>Wayne Maskel (drums)</li>
+</ul>
 
 <h4>Previous members:</h4>
-
-<p>Becky Stewart (Bex) (drums) 1986–87</p>
-<p>Glen Ray (bass) 1986–7</p>
-<p>James Endeacott (guitars) 1987–88</p>
-<p>John Wills (drums) 1987–90, 2013–14</p>
-<p>Neil Mackay (bass) 1987–90, 2013–14</p>
-<p>Scott Dowson (guitars) 1989–90, 2013–14</p>
+<ul class="members">
+<li>Becky Stewart (Bex) (drums) 1986–87</li>
+<li>Glen Ray (bass) 1986–7</li>
+<li>James Endeacott (guitars) 1987–88</li>
+<li>John Wills (drums) 1987–90, 2013–14</li>
+<li>Neil Mackay (bass) 1987–90, 2013–14</li>
+<li>Scott Dowson (guitars) 1989–90, 2013–14</li>
+</ul>
 
 <h4>Origin</h4>	
-Croydon, Surrey, England
+<p><a href="https://en.wikipedia.org/wiki/Croydon'>Croydon, Surrey, England</a></p>
+         
 <h4>Genres</h4>	
-<ul>
-<li>Space rock[1][2] </li>
-<li>drone rock[3][4] </li>
-<li>psychedelic rock[5]</li> 
-<li>noise rock[6]</li>
-</ul>
+<p>Space rock, drone rock, psychedelic rock, noise rock</p>
  
 <h4>Years active</h4>	
-1986–1991, 2013–present
+<p>1986–1991, 2013–present</p>
 
 <h4>Labels</h4>
-<ul>
+<ul class="labels">
 <li>Situation Two</li>
 <li>Chapter 22 Records</li>
 <li>Reactor</li> 
@@ -50,7 +48,7 @@ Croydon, Surrey, England
 </ul>
  
 <h4>Associated acts</h4>	
-Main, The Hair and Skin Trading Company
+<p>Main, The Hair and Skin Trading Company</p>
 
 
 <h3>Career</h3>
@@ -72,21 +70,17 @@ Main, The Hair and Skin Trading Company
 <h3>Discography</h3>
 
 <h4>Albums</h4>
-Year	Title	UK Indie Chart Position[17]	UK Chart Position[9]
+Year	Title	UK Indie Chart Position	UK Chart Position
 1987	Heaven's End	#4	-
 1989	Fade Out	#1	#51
 1990	A Gilded Eternity	#1	#39
 2015	Array 1 EP	-	-
-Compilation Albums
-Month	Year	Title	UK Indie Chart Position[17]	UK Chart Position[9]
-September	1988	The World in Your Eyes
- 	#4	-
-September	1989	Eternal: The Singles
- 	-	-
-1991	Wolf Flow
- (Peel Sessions 1987-1990)	-	-
-1992	Dual
- 	-	-
+<h4>Compilation Albums</h4>
+Year	Title	UK Indie Chart Position	UK Chart Position
+1988	The World in Your Eyes 	#4	-
+1989	Eternal: The Singles 	-	-
+1991	Wolf Flow (Peel Sessions 1987-1990)	-	-
+1992	Dual 	-	-
 <h4>Singles</h4>
 Year	Title	Format	UK Indie Chart Position[17]
 February	1987	'16 Dreams'	12"	#35
