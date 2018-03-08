@@ -1,3 +1,5 @@
+<img src="https://en.wikipedia.org/wiki/Loop_(band)#/media/File:Loop_(1989).jpg">
+
 <h1>Loop (band)</h1>
 
 <h2>Contents</h2> 
