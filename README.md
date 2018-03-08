@@ -6,11 +6,6 @@
  <li>2	Reformation</li>
  <li>3	Members</li>
  <li>4	Discography</li>
- <li>4.1	Albums</li>
- <li>4.2	Compilation Albums</li>
- <li>4.3	Singles</li>
- <li>5	References</li>
- <li>6	External links</li>
 </ul>
 
 <p><b>Loop</b> are an English <a href="https://en.wikipedia.org/wiki/Rock_music" title="Rock music">rock</a> band, formed in 1986 by <a href="https://en.wikipedia.org/wiki/Robert_Hampson" title="Robert Hampson">Robert Hampson</a> in Croydon. The group topped the UK independent charts with their albums <i><a href="https://en.wikipedia.org/wiki/Fade_Out_(album)" title="Fade Out (album)">Fade Out</a></i> (1989) and <i><a href="https://en.wikipedia.org/wiki/A_Gilded_Eternity" title="A Gilded Eternity">A Gilded Eternity</a></i> (1990). Their droning, dissonant "trance-rock" sound drew on the work of artists like <a href="https://en.wikipedia.org/wiki/The_Stooges" title="The Stooges">the Stooges</a> and <a href="https://en.wikipedia.org/wiki/Can_(band)" title="Can (band)">Can</a>, and helped to resurrect the concept of space rock in the late 1980s.</p>
