@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
-title: Lesson 2
-description: Start Wiki page and add text html
+title: Loop
+description: 
+<h2>Contents</h2>
+<ul>
+ <li>1	Career</li>
+ <li>2	Reformation</li>
+ <li>3	Members</li>
+ <li>4	Discography</li>
+ <li>4.1	Albums</li>
+ <li>4.2	Compilation Albums</li>
+ <li>4.3	Singles</li>
+ <li>5	References</li>
+ <li>6	External links</li>
+</ul>
