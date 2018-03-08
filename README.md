@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg">
 
-<h1>Loop (band)</h1>
+<h1>Loop</h1>
 
 <h2>Contents</h2> 
 <ul>
