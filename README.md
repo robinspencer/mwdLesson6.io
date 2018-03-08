@@ -108,7 +108,7 @@ September	1989	Eternal: The Singles
  (Peel Sessions 1987-1990)	-	-
 1992	Dual
  	-	-
-Singles
+<h4>Singles</h4>
 Year	Title	Format	UK Indie Chart Position[17]
 February	1987	'16 Dreams'	12"	#35
 July	1987	'Spinning'	7" 12"	#7
@@ -116,31 +116,7 @@ May	1988	'Collision'	7" 12"	#4
 December	1988	'Black Sun'	12"	#5
 December	1989	'Arc-lite'	7" 12" CD	#6
 May	1991	Loopflesh / Fleshloop	7"	
-References
- AllMusic
- Staff. "Freshly reformed psych-rock titans Loop to reissue classic LPs on vinyl". Fact. Retrieved 9 March 2017.
- "Drone-rock legend Robert Hampson returns with new album on Mego; rejoins Godflesh". Fact. Retrieved 1 August 2016.
- Mugwump, Jonny. "Never Fade Out: Loop's Robert Hampson Interviewed". The Quietus. Retrieved 9 March 2017.
- Daily Texan
- Doran, John. "John Doran's Top Ten Noise Rock Bands – Part One". New Musical Express. Retrieved 7 August 2016.
- "Music in Bristol – Loop at the Fleece, December 2". 29 November 2013. Retrieved 30 November 2016.
- Ankeny, Jason. "Main – Biography". AllMusic. Retrieved 15 March 2017.
- Strong, Martin C.: "The Great Alternative & Indie Discography", 1999, Canongate, ISBN 0-86241-913-1
- Larkin, Colin: "The Guinness Who's Who of Indie and New Wave Music", 1992, Guinness Publishing, ISBN 0-85112-579-4
- "Loop – + Heaven's End". Retrieved 30 November 2016.
- "Soundheads // Loop". Archived from the original on 1 October 2013. Retrieved 30 November 2016.
- "End Of An Era Part 2 curated by ATP & Loop – All Tomorrow's Parties". Retrieved 30 November 2016.
- "Archived copy". Archived from the original on 27 September 2013. Retrieved 10 July 2013.
- "Loop, The Garage, London – The Arts Desk". Retrieved 30 November 2016.
- "Event Info - All Tomorrow's Parties Iceland 2015 - All Tomorrow's Parties". Retrieved 30 November 2016.
- Lazell, Barry: "Indie Hits 1980-1989", 1997, Cherry Red Books, ISBN 0-9517206-9-4
-External links
-Official 'Soundheads' website
-Complete discography
-Robert Hampson's official website
-2008 interview with Robert Hampson
-http://thequietus.com/articles/00731-loop
-http://thequietus.com/articles/01801-loop-a-guilded-eternity-the-world-in-your-eyes-reissue-album-reviews
+
 
   </body>
 </html>
