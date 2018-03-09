@@ -1,9 +1,9 @@
 <h1>Loop</h1>
 
 <ul class="nav">
- <li><a href="/career.html.md">	Career</a></li>
- <li><a href="#">	Reformation</a></li>
- <li><a href="#">	Discography</a></li>
+ <li><a href="https://robinspencer.github.io/lesson2wikiPage/career.html.md">	Career</a></li>
+ <li><a href="https://robinspencer.github.io/lesson2wikiPage/reformation.html.md">	Reformation</a></li>
+ <li><a href="https://robinspencer.github.io/lesson2wikiPage/discography.html.md">	Discography</a></li>
 </ul>
 
 <main>
