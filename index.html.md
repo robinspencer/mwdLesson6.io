@@ -1,7 +1,7 @@
 <h1>Loop</h1>
 
 <ul class="nav">
- <li><a href="#">	Career</a></li>
+ <li><a href="/career.html.md">	Career</a></li>
  <li><a href="#">	Reformation</a></li>
  <li><a href="#">	Discography</a></li>
 </ul>
