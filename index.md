@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg">
+
 <ul class="nav">
  <li><a href="#">	Career</a></li>
  <li><a href="#">	Reformation</a></li>
