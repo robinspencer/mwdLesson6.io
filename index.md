@@ -12,7 +12,7 @@
 <p>The group split in 1991, with Hampson going on to form the experimental project <a href="https://en.wikipedia.org/wiki/Main_(band)" title="Main (band)">Main</a> with guitarist Scott Dawson. In 2013, the 1989–90 lineup of Hampson, Dawson, John Wills, and Neil Mackay briefly reformed for a series of gigs, and the following year Hampson unveiled a new lineup of the band with himself as the sole original member.</p>
 </main>
 
-<h2>Members</h2>
+<h3>Members</h3>
 <h4>Current line-up:</h4>
 <ul class="members">
 <li>Robert Hampson (vocals, guitars)</li>
