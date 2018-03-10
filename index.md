@@ -1,7 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg">
 
 <ul class="nav">
- <li><a href="career.md">	Career</a></li>
+ <li><a href="#career">	Career</a></li>
  <li><a href="reformation.md">	Reformation</a></li>
  <li><a href="discography.md">	Discography</a></li>
 </ul>
