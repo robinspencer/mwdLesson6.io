@@ -21,7 +21,7 @@
 1990	<i>A Gilded Eternity</i>	UK Indie Chart Position #1	UK Chart Position #39
 </figure>
 <figure>
-2015	<i>Array</i> 1 EP	-	-
+2015	<i>Array</i> 1 EP	
 </figure>
 
 <h4>Compilation Albums</h4>
@@ -31,11 +31,11 @@
 </figure>
 
 <figure>
-1989	<i>Eternal: The Singles</i> 	-	-
+1989	<i>Eternal: The Singles</i> 	
 </figure>
 
 <figure>
-1991	<i>Wolf Flow</i> (Peel Sessions 1987-1990)	-	-
+1991	<i>Wolf Flow</i> (Peel Sessions 1987-1990)	
 </figure>
 
 <figure>
