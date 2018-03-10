@@ -42,7 +42,7 @@
 
 <h4>Labels</h4>
 <ul class="labels">
-<li><a href="https://en.wikipedia.org/wiki/Situation_Two'>Situation Two</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Situation_Two">Situation Two</a></li>
  <li><a href="https://www.discogs.com/label/9010-Chapter-22">Chapter 22 Records</a></li>
 <li><a href="https://www.discogs.com/label/174914-Reactor-2">Reactor</a></li> 
 <li>Head</li>
