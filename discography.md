@@ -45,26 +45,26 @@
 <h4>Singles</h4>
 
 <figure>
-February	1987	'16 Dreams'	12"	UK Indie Chart Position #35
+February	1987	'16 Dreams'	UK Indie Chart Position #35
 </figure>
 
 <figure>
-July	1987	'Spinning'	7" 12"	UK Indie Chart Position #7
+July	1987	'Spinning'	UK Indie Chart Position #7
 </figure>
 
 <figure>
-May	1988	'Collision'	7" 12"	UK Indie Chart Position #4
+May	1988	'Collision'	UK Indie Chart Position #4
 </figure>
 
 <figure>
-December	1988	'Black Sun'	12"	UK Indie Chart Position #5
+December	1988	'Black Sun'	UK Indie Chart Position #5
 </figure>
 
 <figure>
-December	1989	'Arc-lite'	7" 12" CD	UK Indie Chart Position #6
+December	1989	'Arc-lite'	CD	UK Indie Chart Position #6
 </figure>
 
 <figure>
-May	1991	'Loopflesh / Fleshloop	7'	
+May	1991	'Loopflesh / Fleshloop'	
 </figure>
 
