@@ -35,7 +35,7 @@
 <a href="https://en.wikipedia.org/wiki/Croydon">Croydon, Surrey, England</a>
 
 <h4>Genres</h4>	
-<p>Space rock, drone rock, psychedelic rock, noise rock</p>
+<p><a href="https://en.wikipedia.org/wiki/Space_rock">Space rock</a>, <a href="https://en.wikipedia.org/wiki/Drone_music">drone rock</a>, <a href="https://en.wikipedia.org/wiki/Psychedelic_rock">psychedelic rock</a>, <a href="https://en.wikipedia.org/wiki/Noise_rock">noise rock</a></p>
  
 <h4>Years active</h4>	
 <p>1986–1991, 2013–present</p>
