@@ -4,12 +4,13 @@
  <li><a href="career">	Career</a></li>
  <li><a href="reformation">	Reformation</a></li>
  <li><a href="index">	About</a></li>
+ </ul>
 
 <h2>Discography</h2>
 
 <h4>Albums</h4>
 
-<ul>
+
 <figure>
 1987	Heaven's End	UK Indie Chart Position #4	
 </figure>
@@ -66,4 +67,4 @@ December	1989	'Arc-lite'	7" 12" CD	UK Indie Chart Position #6
 <figure>
 May	1991	Loopflesh / Fleshloop	7"	
 </figure>
-</ul>
+
