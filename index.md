@@ -32,7 +32,7 @@
 </ul>
 
 <h4>Origin</h4>	
-<a href="https://en.wikipedia.org/wiki/Croydon">Croydon, Surrey, England</a>
+<a href="https://en.wikipedia.org/wiki/Croydon">Croydon</a>, <a href="https://en.wikipedia.org/wiki/Surrey">Surrey</a>, <a href="https://en.wikipedia.org/wiki/England">England</a>
 
 <h4>Genres</h4>	
 <p><a href="https://en.wikipedia.org/wiki/Space_rock">Space rock</a>, <a href="https://en.wikipedia.org/wiki/Drone_music">drone rock</a>, <a href="https://en.wikipedia.org/wiki/Psychedelic_rock">psychedelic rock</a>, <a href="https://en.wikipedia.org/wiki/Noise_rock">noise rock</a></p>
