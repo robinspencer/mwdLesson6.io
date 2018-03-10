@@ -65,6 +65,6 @@ December	1989	'Arc-lite'	7" 12" CD	UK Indie Chart Position #6
 </figure>
 
 <figure>
-May	1991	'Loopflesh / Fleshloop	7"	
+May	1991	'Loopflesh / Fleshloop	7'	
 </figure>
 
