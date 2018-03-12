@@ -19,12 +19,12 @@
 <figure>
  <img href="#">
 <p>1989	<i>Fade Out</i></p>
- <p><small>UK Indie Chart Position | #1	UK Chart Position #51</small></p>
+ <p><small>UK Indie Chart Position #1 |	UK Chart Position #51</small></p>
 </figure>
 <figure>
  <img href="#">
 <p>1990	<i>A Gilded Eternity</i></p>	
- <p><small>UK Indie Chart Position | #1	UK Chart Position #39</small></p>
+ <p><small>UK Indie Chart Position #1	| UK Chart Position #39</small></p>
 </figure>
 <figure>
  <img href="#">
