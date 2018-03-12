@@ -12,59 +12,84 @@
 
 
 <figure>
-1987	<i>Heaven's End</i>	UK Indie Chart Position #4	
+ <img href="#">
+ <p>1987	<i>Heaven's End</i></p>	
+ <p><small>UK Indie Chart Position #4</small></p>	
 </figure>
 <figure>
-1989	<i>Fade Out</i>	UK Indie Chart Position #1	UK Chart Position #51
+ <img href="#">
+<p>1989	<i>Fade Out</i></p>
+ <p><small>UK Indie Chart Position | #1	UK Chart Position #51</small></p>
 </figure>
 <figure>
-1990	<i>A Gilded Eternity</i>	UK Indie Chart Position #1	UK Chart Position #39
+ <img href="#">
+<p>1990	<i>A Gilded Eternity</i></p>	
+ <p><small>UK Indie Chart Position | #1	UK Chart Position #39</small></p>
 </figure>
 <figure>
-2015	<i>Array</i> 1 EP	
+ <img href="#">
+ <p>2015	<i>Array 1</i> EP</p>	
 </figure>
 
 <h4>Compilation Albums</h4>
 
 <figure>
-1988	<i>The World in Your Eyes</i> UK Indie Chart Position	#4
+<img href="#">
+<p>1988	<i>The World in Your Eyes</i></p> 
+ <p><small>UK Indie Chart Position	#4</small></p>
 </figure>
 
 <figure>
-1989	<i>Eternal: The Singles</i> 	
+<img href="#">
+ <p>1989	<i>Eternal: The Singles</i></p> 	
 </figure>
 
 <figure>
-1991	<i>Wolf Flow</i> (Peel Sessions 1987-1990)	
+<img href="#">
+ <p>1991	<i>Wolf Flow</i> (Peel Sessions 1987-1990)</p>	
 </figure>
 
 <figure>
-1992	<i>Dual</i>
+<img href="#">
+ <p>1992	<i>Dual</i></p>
 </figure>
 
 <h4>Singles</h4>
 
 <figure>
-February	1987	'16 Dreams'	UK Indie Chart Position #35
+<img href="#">
+<figcaption class="figure__caption">
+ <p>February	1987	'16 Dreams'</p>
+ <p><small>UK Indie Chart Position #35</small></p>
+</figcaption>
 </figure>
 
 <figure>
-July	1987	'Spinning'	UK Indie Chart Position #7
+<img href="#">
+ <p>July	1987	'Spinning'</p>	
+ <p><small>UK Indie Chart Position #7</small></p>
 </figure>
 
 <figure>
-May	1988	'Collision'	UK Indie Chart Position #4
+<img href="#">
+ <p>May	1988	'Collision'</p>	
+ <p><small>UK Indie Chart Position #4</small></p>
 </figure>
 
 <figure>
-December	1988	'Black Sun'	UK Indie Chart Position #5
+<img href="#">
+ <p>December	1988	'Black Sun'<p>	
+ <p><small>UK Indie Chart Position</small> #5</p>
 </figure>
 
 <figure>
-December	1989	'Arc-lite'	CD	UK Indie Chart Position #6
+<img href="#">
+ <p>December	1989	'Arc-lite'	CD</p>	
+<p><small>UK Indie Chart Position #6</small></p>
 </figure>
 
 <figure>
-May	1991	'Loopflesh / Fleshloop'	
+<img href="#">
+ <p>May	1991	'Loopflesh / Fleshloop'</p>	
 </figure>
 
