@@ -78,7 +78,7 @@
 
 <figure>
 <img href="#">
- <p>December	1988	'Black Sun'<p>	
+ <p>December	1988	'Black Sun'</p>	
  <p><small>UK Indie Chart Position</small> #5</p>
 </figure>
 
