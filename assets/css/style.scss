@@ -19,9 +19,18 @@ h1 {
   font-size: 60px;
 }
 
-h2, h3 {
+h2, {
   font-family: "Barlow Condensed";
   font-weight: 800;
+  font-size: 24px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-family: "Barlow Condensed";
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 0px;
 }
 
 p { 
@@ -29,6 +38,7 @@ p {
   font-weight: 300;
   font-size: 18px;
   line-height: 1.6;
+  margin-top: 0px;
 }
 
 ul { 
