@@ -16,9 +16,12 @@
 
 </div>
 
-<div class="colorback">
+
 
 <h3>Members</h3>
+
+<div class="colorback">
+
 <h4>Current line-up:</h4>
 <ul class="members">
 <li>Robert Hampson (vocals, guitars)</li>
@@ -43,26 +46,34 @@
 
 </div>
 
+<h4>Origin</h4>	
+
 <div class="colorback">
 
-<h4>Origin</h4>	
 <a href="https://en.wikipedia.org/wiki/Croydon">Croydon</a>, <a href="https://en.wikipedia.org/wiki/Surrey">Surrey</a>, <a href="https://en.wikipedia.org/wiki/England">England</a>
 
 </div>
 
+<h4>Genres</h4>	
+
 <div class="colorback">
 
-<h4>Genres</h4>	
 <p><a href="https://en.wikipedia.org/wiki/Space_rock">Space rock</a>, <a href="https://en.wikipedia.org/wiki/Drone_music">drone</a> <a href="https://en.wikipedia.org/wiki/Rock_music">rock</a>, <a href="https://en.wikipedia.org/wiki/Psychedelic_rock">psychedelic rock</a>, <a href="https://en.wikipedia.org/wiki/Noise_rock">noise rock</a></p>
  
 </div>
  
 <h4>Years active</h4>	
-<p>1986–1991, 2013–present</p>
 
 <div class="colorback">
 
+<p>1986–1991, 2013–present</p>
+
+</div>
+
 <h4>Labels</h4>
+
+<div class="colorback">
+
 <ul class="labels">
 <li><a href="https://en.wikipedia.org/wiki/Situation_Two">Situation Two</a></li>
  <li><a href="https://www.discogs.com/label/9010-Chapter-22">Chapter 22 Records</a></li>
@@ -72,9 +83,10 @@
 
 </div>
 
+<h4>Associated acts</h4>	
+
 <div class="colorback">
 
-<h4>Associated acts</h4>	
 <p><a href="https://en.wikipedia.org/wiki/Main_(band)">Main</a>, <a href="https://en.wikipedia.org/wiki/The_Hair_and_Skin_Trading_Company">The Hair and Skin Trading Company</a></p>
 
 </div>
