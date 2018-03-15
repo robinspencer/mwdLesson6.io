@@ -16,6 +16,8 @@
 
 </div>
 
+<div class="colorback">
+
 <h3>Members</h3>
 <h4>Current line-up:</h4>
 <ul class="members">
@@ -24,6 +26,10 @@
 <li>Dan Boyd (guitar)</li>
 <li>Wayne Maskel (drums)</li>
 </ul>
+
+</div>
+
+<div class="colorback">
 
 <h4>Previous members:</h4>
 <ul class="members">
@@ -35,14 +41,26 @@
 <li>Scott Dowson (guitars) 1989–90, 2013–14</li>
 </ul>
 
+</div>
+
+<div class="colorback">
+
 <h4>Origin</h4>	
 <a href="https://en.wikipedia.org/wiki/Croydon">Croydon</a>, <a href="https://en.wikipedia.org/wiki/Surrey">Surrey</a>, <a href="https://en.wikipedia.org/wiki/England">England</a>
+
+</div>
+
+<div class="colorback">
 
 <h4>Genres</h4>	
 <p><a href="https://en.wikipedia.org/wiki/Space_rock">Space rock</a>, <a href="https://en.wikipedia.org/wiki/Drone_music">drone</a> <a href="https://en.wikipedia.org/wiki/Rock_music">rock</a>, <a href="https://en.wikipedia.org/wiki/Psychedelic_rock">psychedelic rock</a>, <a href="https://en.wikipedia.org/wiki/Noise_rock">noise rock</a></p>
  
+</div>
+ 
 <h4>Years active</h4>	
 <p>1986–1991, 2013–present</p>
+
+<div class="colorback">
 
 <h4>Labels</h4>
 <ul class="labels">
@@ -51,6 +69,12 @@
 <li><a href="https://www.discogs.com/label/174914-Reactor-2">Reactor</a></li> 
 <li>Head</li>
 </ul>
- 
+
+</div>
+
+<div class="colorback">
+
 <h4>Associated acts</h4>	
 <p><a href="https://en.wikipedia.org/wiki/Main_(band)">Main</a>, <a href="https://en.wikipedia.org/wiki/The_Hair_and_Skin_Trading_Company">The Hair and Skin Trading Company</a></p>
+
+</div>
