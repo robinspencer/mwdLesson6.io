@@ -34,14 +34,11 @@ h3 {
 }
 
 p { 
-  display: inline-block;
-  width: 40%;
   font-family: "Barlow Condensed";
   font-weight: 300;
   font-size: 18px;
   line-height: 1.6;
   margin: 8px;
-  border-top: 1px solid grey;
 }
 
 ul { 
@@ -53,6 +50,12 @@ ul {
 
 .colorback {
   background-color: #F7EDC4;
-  border: 12px;
-  margin: 0px 0px 18px 0px
+  border-top: 3px solid grey;
+  border-bottom: 2px solid grey;
+  margin: 18px 0px 24px 0px
+}
+
+.contentparagraph {
+  display: inline-block;
+  width: 40%;
 }
