@@ -53,7 +53,7 @@
 
 <div class="colorback">
 
-<a href="https://en.wikipedia.org/wiki/Croydon">Croydon</a>, <a href="https://en.wikipedia.org/wiki/Surrey">Surrey</a>, <a href="https://en.wikipedia.org/wiki/England">England</a>
+<p><a href="https://en.wikipedia.org/wiki/Croydon">Croydon</a>, <a href="https://en.wikipedia.org/wiki/Surrey">Surrey</a>, <a href="https://en.wikipedia.org/wiki/England">England</a></p>
 
 </div>
 
