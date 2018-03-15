@@ -6,18 +6,29 @@
 
 @import url('https://fonts.googleapis.com/css?family=Ultra');
 
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:300,300i,800,800i');
+
 
 h1 {
   font-family: Ultra;
   font-size: 60px;
 }
 
-p { 
-  font-size: 13px;
-  line-height: 1.2;
+h2, h3 {
+  font-family: Barlow 800;
 }
 
+p { 
+  font-family: Barlow 300;
+  font-size: 14px;
+  line-height: 1.4;
+}
 
+ul { 
+  font-family: Barlow 300;
+  font-size: 14px;
+  line-height: 1.4;
+}
 
 .colorback {
   background-color: #F7EDC4
