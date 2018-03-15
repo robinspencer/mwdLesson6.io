@@ -20,9 +20,10 @@
 
 <h3>Members</h3>
 
+<h4>Current line-up:</h4>
+
 <div class="colorback">
 
-<h4>Current line-up:</h4>
 <ul class="members">
 <li>Robert Hampson (vocals, guitars)</li>
 <li>Hugo Morgan (bass)</li>
@@ -32,9 +33,11 @@
 
 </div>
 
-<div class="colorback">
 
 <h4>Previous members:</h4>
+
+<div class="colorback">
+
 <ul class="members">
 <li>Becky Stewart (Bex) (drums) 1986–87</li>
 <li>Glen Ray (bass) 1986–7</li>
