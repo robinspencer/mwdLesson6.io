@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg" alt=" ">
 
 <ul class="nav">
  <li><a href="career">	Career</a></li>
@@ -6,15 +6,14 @@
  <li><a href="discography">	Discography</a></li>
 </ul>
 
-<div class="colorback">
 
 <main>
+<div class="colorback">
 <p class="contentparagraph">Loop are an English <a href="https://en.wikipedia.org/wiki/Rock_music" title="Rock music">rock</a> band, formed in 1986 by <a href="https://en.wikipedia.org/wiki/Robert_Hampson" title="Robert Hampson">Robert Hampson</a> in Croydon. The group topped the UK independent charts with their albums <i><a href="https://en.wikipedia.org/wiki/Fade_Out_(album)" title="Fade Out (album)">Fade Out</a></i> (1989) and <i><a href="https://en.wikipedia.org/wiki/A_Gilded_Eternity" title="A Gilded Eternity">A Gilded Eternity</a></i> (1990). Their droning, dissonant "trance-rock" sound drew on the work of artists like <a href="https://en.wikipedia.org/wiki/The_Stooges" title="The Stooges">the Stooges</a> and <a href="https://en.wikipedia.org/wiki/Can_(band)" title="Can (band)">Can</a>, and helped to resurrect the concept of space rock in the late 1980s.</p>
 
 <p class="contentparagraph">The group split in 1991, with Hampson going on to form the experimental project <a href="https://en.wikipedia.org/wiki/Main_(band)" title="Main (band)">Main</a> with guitarist Scott Dawson. In 2013, the 1989–90 lineup of Hampson, Dawson, John Wills, and Neil Mackay briefly reformed for a series of gigs, and the following year Hampson unveiled a new lineup of the band with himself as the sole original member.</p>
-</main>
-
 </div>
+</main>
 
 
 
