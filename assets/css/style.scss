@@ -102,5 +102,6 @@ div {
   margin: 6px 0px 24px 0px;
 }
 div::after {
-  content: "i've tried to put an image here, but it won't show";
+  content: "-----------------------------------------------";
+  color: grey;
 }
