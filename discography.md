@@ -6,10 +6,11 @@
  <li><a href="index">	About</a></li>
  </ul>
 
-<h2>Discography</h2>
+<h3>Discography</h3>
+
+<div class="contentdiv">
 
 <h4>Albums</h4>
-
 
 <figure>
  <img href="#">
@@ -30,6 +31,10 @@
  <img href="#">
  <p>2015	<i>Array 1</i> EP</p>	
 </figure>
+
+</div>
+
+<div class="contentdiv">
 
 <h4>Compilation Albums</h4>
 
@@ -53,6 +58,10 @@
 <img href="#">
  <p>1992	<i>Dual</i></p>
 </figure>
+
+</div>
+
+<div class="contentdiv">
 
 <h4>Singles</h4>
 
@@ -93,3 +102,4 @@
  <p>May	1991	'Loopflesh / Fleshloop'</p>	
 </figure>
 
+</div>
