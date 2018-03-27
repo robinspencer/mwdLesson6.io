@@ -62,8 +62,6 @@
 
 <p><a href="https://en.wikipedia.org/wiki/Space_rock">Space rock</a>, <a href="https://en.wikipedia.org/wiki/Drone_music">drone</a> <a href="https://en.wikipedia.org/wiki/Rock_music">rock</a>, <a href="https://en.wikipedia.org/wiki/Psychedelic_rock">psychedelic rock</a>, <a href="https://en.wikipedia.org/wiki/Noise_rock">noise rock</a></p>
  
-<div class="circle1"></div>
-
 </div>
 
 <div class="contentdiv">
