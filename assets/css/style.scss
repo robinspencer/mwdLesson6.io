@@ -99,8 +99,8 @@ footer {
   padding: 12px 0px 12px 0px;
 }
 div {
-  margin: 12px 0px 18px 0px;
+  margin: 6px 0px 24px 0px;
 }
 div::after {
-  content: url("https://github.com/robinspencer/mwdlesson5.io/blob/master/images/dotscontent.png");
+  content: "url("https://github.com/robinspencer/mwdlesson5.io/blob/master/images/dotscontent.png")";
 }
