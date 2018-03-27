@@ -6,6 +6,11 @@
  <li><a href="discography">	Discography</a></li>
 </ul>
 
+<div class="circle1">
+ 
+ <p>a circle</p>
+ 
+ </div>
 
 <div class="contentdiv">
  
