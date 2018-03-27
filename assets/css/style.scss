@@ -96,7 +96,10 @@ header {
 footer {
   border-top: 8px dotted grey;
   border-bottom: 8px dotted grey;
-  padding: 12px 0px 12px 0px
+  padding: 12px 0px 12px 0px;
+}
+div {
+  margin: 12px 0px 18px 0px;
 }
 div::after {
   content: url(images/dotscontent.png);
