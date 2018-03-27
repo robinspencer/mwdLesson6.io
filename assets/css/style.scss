@@ -24,21 +24,21 @@ h2, {
   font-family: Ultra;
   font-style: normal;
   font-size: 36px;
-  margin-bottom: 0px;
+  margin: 0px;
 }
 
 h3 {
   font-family: Ultra;
   font-style: normal;
   font-size: 24px;
-  margin-bottom: 0px;
+  margin: 0px;
 }
 
 h4 {
   font-family: Ultra;
   font-style: normal;
   font-size: 18px;
-  margin-bottom: 0px;
+  margin: 0px;
 }
 
 p { 
@@ -46,7 +46,7 @@ p {
   font-weight: 300;
   font-size: 18px;
   line-height: 1.6;
-  margin: 8px;
+  margin: 0px;
 }
 
 a {
@@ -58,12 +58,12 @@ ul {
   font-family: "Barlow Condensed";
   font-size: 20px;
   line-height: 2;
-  margin-top: 0px;
+  margin: 0px;
 }
 
 small {
   font-size: 12px;
-  margin-top: 0px;
+  margin: 0px;
 }
 
 hr { 
@@ -99,7 +99,7 @@ footer {
   padding: 12px 0px 12px 0px;
 }
 .contentdiv {
-  margin: 18px 0px 0px 0px;
+  margin: 8px 0px 0px 0px;
 }
 .contentdiv::after {
   content: ".....................";
@@ -107,6 +107,5 @@ footer {
   color: grey;
   font-size: 4em;
   line-height: .5em;
-  text-align: center;
   margin: 0px;
 }
