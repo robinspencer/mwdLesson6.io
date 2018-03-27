@@ -103,5 +103,6 @@ footer {
 }
 .contentdiv::after {
   content: "-----------------------------------------------";
+  position: relative;
   color: grey;
 }
