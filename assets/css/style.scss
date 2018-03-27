@@ -79,11 +79,12 @@ small {
   width: 40%;
 }
 header {
-  background-color: black;
+  border-top: 8px dotted grey;
+  border-bottom: 8px dotted grey;
+  margin: 24px 0px 36px 0px
 }
 footer {
-  background-color: black;
-}
-wrapper {
-  background-color: black;
+  border-top: 8px dotted grey;
+  border-bottom: 8px dotted grey;
+  margin: 24px 0px 36px 0px
 }
