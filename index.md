@@ -7,7 +7,7 @@
 </ul>
 
 
-<div>
+<div class="contentdiv">
  
 <p class="contentparagraph">Loop are an English <a href="https://en.wikipedia.org/wiki/Rock_music" title="Rock music">rock</a> band, formed in 1986 by <a href="https://en.wikipedia.org/wiki/Robert_Hampson" title="Robert Hampson">Robert Hampson</a> in Croydon. The group topped the UK independent charts with their albums <i><a href="https://en.wikipedia.org/wiki/Fade_Out_(album)" title="Fade Out (album)">Fade Out</a></i> (1989) and <i><a href="https://en.wikipedia.org/wiki/A_Gilded_Eternity" title="A Gilded Eternity">A Gilded Eternity</a></i> (1990). Their droning, dissonant "trance-rock" sound drew on the work of artists like <a href="https://en.wikipedia.org/wiki/The_Stooges" title="The Stooges">the Stooges</a> and <a href="https://en.wikipedia.org/wiki/Can_(band)" title="Can (band)">Can</a>, and helped to resurrect the concept of space rock in the late 1980s.</p>
 
@@ -19,7 +19,7 @@
 
 <h4>Current line-up:</h4>
 
-<div>
+<div class="contentdiv">
 
 <ul class="members">
 <li>Robert Hampson (vocals, guitars)</li>
@@ -33,7 +33,7 @@
 
 <h4>Previous members:</h4>
 
-<div>
+<div class="contentdiv">
 
 <ul class="members">
 <li>Becky Stewart (Bex) (drums) 1986–87</li>
@@ -48,7 +48,7 @@
 
 <h4>Origin</h4>	
 
-<div>
+<div class="contentdiv">
 
 <p><a href="https://en.wikipedia.org/wiki/Croydon">Croydon</a>, <a href="https://en.wikipedia.org/wiki/Surrey">Surrey</a>, <a href="https://en.wikipedia.org/wiki/England">England</a></p>
 
@@ -56,7 +56,7 @@
 
 <h4>Genres</h4>	
 
-<div>
+<div class="contentdiv">
 
 <p><a href="https://en.wikipedia.org/wiki/Space_rock">Space rock</a>, <a href="https://en.wikipedia.org/wiki/Drone_music">drone</a> <a href="https://en.wikipedia.org/wiki/Rock_music">rock</a>, <a href="https://en.wikipedia.org/wiki/Psychedelic_rock">psychedelic rock</a>, <a href="https://en.wikipedia.org/wiki/Noise_rock">noise rock</a></p>
  
@@ -64,7 +64,7 @@
  
 <h4>Years active</h4>	
 
-<div>
+<div class="contentdiv">
 
 <p>1986–1991, 2013–present</p>
 
@@ -72,7 +72,7 @@
 
 <h4>Labels</h4>
 
-<div>
+<div class="contentdiv">
 
 <ul class="labels">
 <li><a href="https://en.wikipedia.org/wiki/Situation_Two">Situation Two</a></li>
@@ -85,7 +85,7 @@
 
 <h4>Associated acts</h4>	
 
-<div>
+<div class="contentdiv">
 
 <p><a href="https://en.wikipedia.org/wiki/Main_(band)">Main</a>, <a href="https://en.wikipedia.org/wiki/The_Hair_and_Skin_Trading_Company">The Hair and Skin Trading Company</a></p>
 
