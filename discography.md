@@ -6,9 +6,9 @@
  <li><a href="index">	About</a></li>
  </ul>
 
-<h3>Discography</h3>
-
 <div class="contentdiv">
+ 
+<h3>Discography</h3>
 
 <h4>Albums</h4>
 
