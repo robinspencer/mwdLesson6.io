@@ -8,9 +8,9 @@
 
 <div class="contentdiv"></div>
 
- <h3>Career</h3>
-
 <div class="contentdiv">
+
+<h3>Career</h3>
 
 <p class="contentparagraph">Loop were formed in 1986 by Robert Hampson (vocals, guitar), with his then-girlfriend Becky Stewart on drums. Stewart was later replaced by John Wills (<a href="https://en.wikipedia.org/wiki/The_Servants" title="The Servants">The Servants</a>) and Glen Ray, with James Endeacott on guitar. Initially releasing records on Jeff Barrett's Head label, their first release was 1987's "16 Dreams", with debut album <i><a href="https://en.wikipedia.org/wiki/Heaven%27s_End" title="Heaven's End">Heaven's End</a></i> following later that year. The band was then signed up by Chapter 22 Records.</p>
 
