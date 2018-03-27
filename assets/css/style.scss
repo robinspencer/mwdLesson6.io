@@ -98,10 +98,10 @@ footer {
   border-bottom: 8px dotted grey;
   padding: 12px 0px 12px 0px;
 }
-div {
+contentdiv {
   margin: 6px 0px 24px 0px;
 }
-div::after {
+contentdiv::after {
   content: "-----------------------------------------------";
   color: grey;
 }
