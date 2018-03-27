@@ -6,8 +6,6 @@
  <li><a href="discography">	Discography</a></li>
 </ul>
 
-<div class="contentdiv"></div>
-
 <div class="contentdiv">
 
 <h3>Career</h3>
