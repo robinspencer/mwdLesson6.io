@@ -98,4 +98,6 @@ footer {
   border-bottom: 8px dotted grey;
   padding: 12px 0px 12px 0px
 }
-
+div::after {
+  content: url(dotscontent.png);
+}
