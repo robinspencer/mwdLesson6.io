@@ -78,7 +78,9 @@ hr {
 } 
 
 .navoncircle {
-  margin-top: 60px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .colorback {
