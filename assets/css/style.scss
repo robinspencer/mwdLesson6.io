@@ -66,6 +66,16 @@ small {
   margin-top: 0px;
 }
 
+hr { 
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dotted;
+    border-width: 8px;
+} 
+
 .colorback {
   background-color: #e6e6e6;
   border-top: 3px solid grey;
@@ -81,10 +91,11 @@ small {
 header {
   border-top: 8px dotted grey;
   border-bottom: 8px dotted grey;
-  padding: 24px 0px 36px 0px
+  padding: 12px 0px 12px 0px
 }
 footer {
   border-top: 8px dotted grey;
   border-bottom: 8px dotted grey;
-  padding: 24px 0px 36px 0px
+  padding: 12px 0px 12px 0px
 }
+
