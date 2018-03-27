@@ -15,11 +15,11 @@
 
 </div>
 
+<div class="contentdiv">
+ 
 <h3>Members</h3>
 
 <h4>Current line-up:</h4>
-
-<div class="contentdiv">
 
 <ul class="members">
 <li>Robert Hampson (vocals, guitars)</li>
@@ -30,10 +30,9 @@
 
 </div>
 
-
-<h4>Previous members:</h4>
-
 <div class="contentdiv">
+ 
+<h4>Previous members:</h4>
 
 <ul class="members">
 <li>Becky Stewart (Bex) (drums) 1986–87</li>
@@ -44,35 +43,35 @@
 <li>Scott Dowson (guitars) 1989–90, 2013–14</li>
 </ul>
 
-</div>
-
-<h4>Origin</h4>	
+</div>	
 
 <div class="contentdiv">
+
+<h4>Origin</h4>
 
 <p><a href="https://en.wikipedia.org/wiki/Croydon">Croydon</a>, <a href="https://en.wikipedia.org/wiki/Surrey">Surrey</a>, <a href="https://en.wikipedia.org/wiki/England">England</a></p>
 
 </div>
 
-<h4>Genres</h4>	
-
 <div class="contentdiv">
+ 
+<h4>Genres</h4>	
 
 <p><a href="https://en.wikipedia.org/wiki/Space_rock">Space rock</a>, <a href="https://en.wikipedia.org/wiki/Drone_music">drone</a> <a href="https://en.wikipedia.org/wiki/Rock_music">rock</a>, <a href="https://en.wikipedia.org/wiki/Psychedelic_rock">psychedelic rock</a>, <a href="https://en.wikipedia.org/wiki/Noise_rock">noise rock</a></p>
  
 </div>
- 
-<h4>Years active</h4>	
 
 <div class="contentdiv">
+
+<h4>Years active</h4>	
 
 <p>1986–1991, 2013–present</p>
 
 </div>
 
-<h4>Labels</h4>
-
 <div class="contentdiv">
+
+<h4>Labels</h4>
 
 <ul class="labels">
 <li><a href="https://en.wikipedia.org/wiki/Situation_Two">Situation Two</a></li>
@@ -83,9 +82,9 @@
 
 </div>
 
-<h4>Associated acts</h4>	
-
 <div class="contentdiv">
+
+<h4>Associated acts</h4>	
 
 <p><a href="https://en.wikipedia.org/wiki/Main_(band)">Main</a>, <a href="https://en.wikipedia.org/wiki/The_Hair_and_Skin_Trading_Company">The Hair and Skin Trading Company</a></p>
 
