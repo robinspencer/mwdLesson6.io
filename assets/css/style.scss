@@ -103,6 +103,6 @@ footer {
 }
 .contentdiv::after {
   content: "-----------------------------------------------";
-  position: absolute;
+  display: block;
   color: grey;
 }
