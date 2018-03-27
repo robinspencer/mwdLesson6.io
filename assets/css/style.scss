@@ -102,5 +102,5 @@ div {
   margin: 6px 0px 24px 0px;
 }
 div::after {
-  content: "url("https://github.com/robinspencer/mwdlesson5.io/blob/master/images/dotscontent.png")";
+  content: url("https://github.com/robinspencer/mwdlesson5.io/blob/master/images/dotscontent.png");
 }
