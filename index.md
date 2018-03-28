@@ -1,10 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg" alt=" ">
 
-<div class="taco">
- 
- taco
- 
- </div>
 
 
 <div class="circle1">
@@ -14,6 +9,12 @@
  <li><a href="reformation">	Reformation</a></li>
  <li><a href="discography">	Discography</a></li>
 </ul>
+ 
+ </div>
+ 
+ <div class="taco">
+ 
+ taco
  
  </div>
 
