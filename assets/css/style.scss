@@ -54,6 +54,11 @@ a {
   font-weight: 500;
   color: #666666;
 }
+
+a:hover {
+  color: #069;
+  transition: color .5s ease-in;
+}
     
 ul { 
   font-family: "Barlow Condensed";
