@@ -57,8 +57,9 @@ a {
 
 a:hover {
   color: #069;
+  background: #c9cdcd;
   font-weight: normal;
-  transition: color 2s ease-in;
+  transition: color, background 2s ease-in;
 }
     
 ul { 
