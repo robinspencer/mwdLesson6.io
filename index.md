@@ -11,12 +11,6 @@
 </ul>
  
  </div>
- 
- <div class="taco">
- 
- taco
- 
- </div>
 
 <div class="contentdiv">
  
