@@ -19,7 +19,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-          <p>View the <a href="{{ site.github.repository_url }}">guts{{ github_name }}</a> on GitHub </p>
+          <p>View the <a href="{{ site.github.repository_url }}">guts {{ github_name }}</a> on GitHub </p>
         {% endif %}
 
         {% if site.github.is_user_page %}
