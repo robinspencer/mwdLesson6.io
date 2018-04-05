@@ -120,9 +120,10 @@ footer {
   display: block;
   color: grey;
   font-size: 4em;
-  line-height: .3em;
-  margin: 0px;
-  width: 100%;
+  line-height: 4em;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 .circle1 {
