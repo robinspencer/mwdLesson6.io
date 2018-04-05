@@ -116,13 +116,14 @@ footer {
   margin: 36px 0px 0px 0px;
 }
 .contentdiv::after {
-  content: ".....................";
+  content: "..................................................";
   display: block;
   color: grey;
   font-size: 4em;
   line-height: 1em;
   margin: 0px;
   overflow: hidden;
+  height: 1em;
 }
 
 .circle1 {
