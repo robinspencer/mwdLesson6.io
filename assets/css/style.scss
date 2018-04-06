@@ -127,38 +127,3 @@ footer {
   height: 1em;
 }
 
-.circle1 {
-    width: 200px;
-    height: 200px;
-    position: relative;
-    left: -60px;
-    bottom: 60px;
-    margin-bottom: -80px;
-    background: rgb(225, 225, 225);
-    -moz-border-radius: 200px;
-    -webkit-border-radius: 200px;
-    border-radius: 200px;
-}
-
-.taco {
- height:45px;
- width:90px;
- position: fixed;
- top: 220px;
- left: 290px;
- border-radius: 90px 90px 0 0;
- -moz-border-radius: 90px 90px 0 0;
- -webkit-border-radius: 90px 90px 0 0;
- background: tan;
-  color: brown;
-  text-align: center;
-    font-family: Ultra;
-    font-style: normal;
-    font-size: 14px;
-  padding-top: 12px;
-}
-
-.taco:hover {
-  opacity: 0;
-  transition: opacity 2s ease-in;
-}
