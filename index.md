@@ -2,9 +2,9 @@
 
 
 
-<div class="circle1">
+<div>
 
-<ul class="nav navoncircle">
+<ul>
  <li><a href="career">	Career</a></li>
  <li><a href="reformation">	Reformation</a></li>
  <li><a href="discography">	Discography</a></li>
