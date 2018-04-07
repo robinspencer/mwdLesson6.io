@@ -130,13 +130,14 @@ footer {
 }
 
 .topnav a {
-  float: left;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+   float: left;
+   text-align: center;
+   padding: 3px 22px 5px;
+   margin: 8px 18px 0px 0px;
+   text-decoration: none;
+   font-size: 17px;
+   border: 1px solid grey;
+   border-radius: 12px;
 }
 
 .topnav a:hover {
