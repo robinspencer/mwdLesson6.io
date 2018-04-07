@@ -126,11 +126,11 @@ footer {
 
 .topnav {
   overflow: hidden;
-  background-color: #666666;
 }
 
 .topnav a {
    float: left;
+   display: block;
    text-align: center;
    padding: 3px 22px 5px;
    margin: 8px 18px 0px 0px;
