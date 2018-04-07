@@ -57,7 +57,7 @@ a {
 a:hover {
   color: #069;
   font-weight: normal;
-  transition: color 1.5s ease-in;
+  transition: color 1s ease-in;
 }
     
 ul { 
@@ -142,11 +142,12 @@ footer {
 .topnav a:hover {
   background-color: #e8e7e3;
   color: #069;
+  transition: background-color .5s ease-in;
 }
 
 .active {
   background-color: #e8e7e3;
-  color: white;
+  color: #666666;
 }
 
 .topnav .icon {
