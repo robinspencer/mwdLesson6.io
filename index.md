@@ -1,27 +1,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg" alt=" ">
 
 <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="index" class="active">About</a>
+  <a href="career">Career</a>
+  <a href="reformation">Reformation</a>
+  <a href="discography">Discography</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 
-<div style="padding-left:16px">
-  <h2>Responsive Topnav Example</h2>
-  <p>Resize the browser window to see how it works.</p>
-</div>
-
-<div>
-
-<ul>
- <li><a href="career">	Career</a></li>
- <li><a href="reformation">	Reformation</a></li>
- <li><a href="discography">	Discography</a></li>
-</ul>
- 
- </div>
 
 <div class="contentdiv">
  
