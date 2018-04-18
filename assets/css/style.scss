@@ -177,3 +177,324 @@ footer {
     text-align: left;
   }
 }
+
+#nav-jump {
+    border: 1px solid;
+    border-radius: 3px;
+    background: #000;
+    color: #fff;
+    font: bold .875em Oxygen, Helvetica, Arial, sans-serif;
+    padding: .5em;
+    text-transform: uppercase;
+    /* move to the upper right corner */
+    position: absolute;
+    top: .75em;
+    right: 1em;
+    z-index: 1000;
+}
+
+nav {
+    outline: none;
+}
+nav ul {
+    background: #fff;
+    background-color: rgba(255, 255, 255, .95);
+    color: #000;
+    border-top: 1px solid;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav a {
+    border-bottom: 1px solid #000;
+    color: #000;
+    display: block;
+    font: bold 1em Oxygen, Helvetica, Arial, sans-serif;
+    line-height: 2;
+    padding: 0 1em;
+    outline: none;
+    -webkit-transition: background .4s, color 0s .1s;
+       -moz-transition: background .4s, color 0s .1s;
+        -ms-transition: background .4s, color 0s .1s;
+            transition: background .4s, color 0s .1s;
+}
+nav mark a {
+    background: #000;
+    color: #fff;
+}
+nav ul a:hover,
+nav ul a:focus,
+nav mark a:hover,
+nav mark a:focus {
+    background: #ccc;
+    color: #000;
+    -webkit-transition: background .4s;
+       -moz-transition: background .4s;
+        -ms-transition: background .4s;
+            transition: background .4s;
+}
+
+
+/* =================================================================
+     * Navigation
+     * ================================================================= */
+    /* body:not(:target) is a nifty CSS filter to allow show/hide with CSS 
+     * in browsers that support :not() and :target
+     * See: http://www.creativebloq.com/css3/build-smart-mobile-navigation-without-hacks-6122800
+     */
+
+/* 320px—648px */
+@media only screen and (min-width:20em) and (max-width:40.5em) {
+
+    body:not(:target) #menu {
+        max-width: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        outline: 0;
+    }
+        body:not(:target) #menu ul {
+            background: transparent;
+            border: 1px solid transparent;
+            border-bottom-width: 0;
+            max-width: 12.5em; /* 16 * 12.5 = 200 */
+            position: absolute;
+            right: 2%;
+            top: 3em;
+            z-index: 1002;
+        }
+        body:not(:target) #menu ul a {
+            border-bottom-width: 0;
+            overflow: hidden;
+            height: 0;
+            /* Hardware Accelerate for better animation */
+               -moz-transform: translate3d(0,0,0);
+                -ms-transform: translate3d(0,0,0);
+            -webkit-transform: translate3d(0,0,0);
+                    transform: translate3d(0,0,0);
+               -moz-transition: height .15s;
+                -ms-transition: height .15s;
+            -webkit-transition: height .15s;
+                    transition: height .15s;
+        }
+        body:not(:target) #menu:target {
+            /* Overlay everything */
+            bottom: 0;
+            height: 100%;
+        }
+        body:not(:target) #menu:target ul {
+            background: #fff;
+            background-color: rgba(255, 255, 255, .95);
+            border-color: #000;
+        }
+        body:not(:target) #menu:target ul a {
+            border-bottom-width: 1px;
+            height: 2em;
+            position: relative;
+            z-index: 1;
+               -moz-transition: height .25s;
+                -ms-transition: height .25s;
+            -webkit-transition: height .25s;
+                    transition: height .25s;
+        }
+        body:not(:target) #menu-close {
+            border: 0;
+            display: block;
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 1001;
+        }
+     
+    /* Drawer Nav */
+    .drawer-nav-enabled {
+        /* nothing to see here :-) */
+    }
+        .drawer-nav-enabled body {
+            overflow-x: hidden;
+            width: 100%;
+            height: 100%;
+            position: relative;
+            left: 0;
+               -moz-transition: left .25s ease;
+                 -o-transition: left .25s ease;
+            -webkit-transition: left .25s ease;
+                    transition: left .25s ease;
+            /* Hardware acceleration for the animation */
+               -moz-transform: translate3d(0,0,0);
+                -ms-transform: translate3d(0,0,0);
+            -webkit-transform: translate3d(0,0,0);
+                    transform: translate3d(0,0,0);
+        }
+        .drawer-nav-enabled body #menu {
+            overflow: auto;
+            overflow-x: hidden;
+            width: 0;
+            max-width: 80%;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 100%;
+            z-index: 3;
+               -moz-transition: width .25s ease;
+                 -o-transition: width .25s ease;
+            -webkit-transition: width .25s ease;
+                    transition: width .25s ease;
+        }
+            .drawer-nav-enabled body #menu ul {
+                position: static;
+                max-width: 100%;
+            }
+                .drawer-nav-enabled body #menu ul a {
+                    height: auto;
+                }
+                    .drawer-nav-enabled body #menu ul a:hover,
+                    .drawer-nav-enabled body #menu ul a:focus {
+                        background-color: #ccc;
+                    }
+        .drawer-nav-open {
+            overflow: hidden;
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+            .drawer-nav-open body {
+                left: -80%;
+                overflow: visible;
+            }
+                .drawer-nav-open body #menu {
+                    overflow: visible;
+                    width: 80%;
+                }
+                .drawer-nav-open body #menu-close {
+                    background: black;
+                    background: rgba( 0, 0, 0, .5 );
+                    left: -100%;
+                    width: 100%;
+                    box-sizing: border-box;
+                }
+
+
+    /* for getActiveMQ */
+    #getActiveMQ-watcher { font-family: "small"; }
+
+}
+ 
+/* >= 648px */
+@media only screen and (min-width:40.5em) {
+    
+     
+    /* =================================================================
+     * Navigation
+     * ================================================================= */
+    #nav-jump {
+        right: auto;
+        left:  -999em;
+    }
+        #nav-jump:focus {
+            right: 1em;
+            left:  auto;
+        }
+    #menu {
+        position: absolute;
+        top: 3.75em;
+        right: 0;
+        white-space: nowrap;
+    }
+        #menu ul {
+            background: transparent;
+            border: 0;
+        }
+        #menu li,
+        #menu a {
+            border: 0;
+            display: inline-block;
+        }
+        #menu a {
+            border-radius: 5px 5px 0 0;
+            color: #fff;
+            line-height: 2em;
+            padding: 0 1em;
+        }
+        #menu mark a {
+            background: #fff;
+            color: #000;
+        }
+        #menu ul a:hover,
+        #menu ul a:focus,
+        #menu ul mark a:hover,
+        #menu ul mark a:focus {
+            background: #ccc;
+            color: #000;
+        }
+        #menu ul a:active,
+        #menu ul mark a:active {
+            background: green;
+            color: #fff;
+        }
+    .home #menu {
+        position: static;
+        text-align: center;
+        margin: 1em auto;
+        padding: 0;
+        white-space: normal;
+    }
+        .home #menu ul {
+            width: auto;
+        }
+        .home #menu li {
+            display: block;
+        }
+        .home #menu a {
+            border-radius: 5px;
+            color: #000;
+        }
+        .home #menu mark a {
+            background: #000;
+            color: #fff;
+        }
+        .home #menu ul a:hover,
+        .home #menu ul a:focus,
+        .home #menu ul mark a:hover,
+        .home #menu ul mark a:focus {
+            background: #ccc;
+            color: #000;
+        }
+        .home #menu h1.hidden,
+        .home #menu ul .hidden {
+            position: static !important;
+            width: 100%;
+            height: auto;
+            clip: inherit;
+            overflow: visible;
+        }
+        .home #menu h1 {
+            margin-bottom: .5em;
+        }
+            .home #menu h1::before {
+                content: " ";
+                display: block;
+                height: 0;
+                margin: .5em auto 1em;
+                width: 50%;
+                border-top: 1px solid #ccc;
+            }
+    .home #menu-close::before {
+        color: #000;
+        content: "^ Return to the top";
+        display: inline-block;
+        font-size: .75em;
+        margin-top: 1em;
+        text-transform:  uppercase;
+    }
+        .home #menu-close:hover::before,
+        .home #menu-close:focus::before {
+            color: red;
+        }
+    
