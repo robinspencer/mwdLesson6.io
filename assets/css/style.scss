@@ -181,7 +181,7 @@ footer {
 #nav-jump {
     border: 1px solid;
     border-radius: 3px;
-    background: #000;
+    background: #333;
     color: #fff;
     padding: .5em;
 }
@@ -387,7 +387,6 @@ nav mark a:focus {
      * ================================================================= */
     #nav-jump {
         right: auto;
-        left:  -999em;
     }
         #nav-jump:focus {
             right: 1em;
