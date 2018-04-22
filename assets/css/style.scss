@@ -218,12 +218,13 @@ nav ul a:hover,
 nav ul a:focus,
 nav mark a:hover,
 nav mark a:focus {
-    background: #ccc;
-    color: #666666;
-    -webkit-transition: background .4s;
-       -moz-transition: background .4s;
-        -ms-transition: background .4s;
-            transition: background .4s;
+  background-color: #e8e7e3;
+  color: #069;
+  transition: background-color .5s ease-in;
+    -webkit-transition: background .5s;
+       -moz-transition: background .5s;
+        -ms-transition: background .5s;
+            transition: background .5s;
 }
 
 
@@ -413,15 +414,16 @@ nav mark a:focus {
             padding: 0 1em;
         }
         #menu mark a {
-            background: #666666;
+            background: white;
             color: #666666;
         }
         #menu ul a:hover,
         #menu ul a:focus,
         #menu ul mark a:hover,
         #menu ul mark a:focus {
-            background: #ccc;
-            color: #666666;
+              background-color: #e8e7e3;
+              color: #069;
+              transition: background-color .5s ease-in;
         }
         #menu ul a:active,
         #menu ul mark a:active {
@@ -453,8 +455,9 @@ nav mark a:focus {
         .home #menu ul a:focus,
         .home #menu ul mark a:hover,
         .home #menu ul mark a:focus {
-            background: #ccc;
-            color: #666666;
+              background-color: #e8e7e3;
+              color: #069;
+              transition: background-color .5s ease-in;
         }
         .home #menu h1.hidden,
         .home #menu ul .hidden {
