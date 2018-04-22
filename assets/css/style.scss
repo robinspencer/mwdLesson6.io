@@ -192,7 +192,7 @@ nav {
 nav ul {
     background: #fff;
     background-color: rgba(255, 255, 255, .95);
-    color: #000;
+    color: #666666;
     border-top: 1px solid;
     list-style: none;
     margin: 0;
@@ -200,7 +200,7 @@ nav ul {
 }
 nav a {
     border-bottom: 1px solid #000;
-    color: #000;
+    color: #666666;
     display: block;
     line-height: 2;
     padding: 0 1em;
@@ -212,14 +212,14 @@ nav a {
 }
 nav mark a {
     background: #000;
-    color: #fff;
+    color: #666666;
 }
 nav ul a:hover,
 nav ul a:focus,
 nav mark a:hover,
 nav mark a:focus {
     background: #ccc;
-    color: #000;
+    color: #666666;
     -webkit-transition: background .4s;
        -moz-transition: background .4s;
         -ms-transition: background .4s;
@@ -279,7 +279,7 @@ nav mark a:focus {
         body:not(:target) #menu:target ul {
             background: #fff;
             background-color: rgba(255, 255, 255, .95);
-            border-color: #000;
+            border-color: #666666;
         }
         body:not(:target) #menu:target ul a {
             border-bottom-width: 1px;
@@ -408,25 +408,25 @@ nav mark a:focus {
         }
         #menu a {
             border-radius: 5;
-            color: #fff;
+            color: #666666;
             line-height: 2em;
             padding: 0 1em;
         }
         #menu mark a {
-            background: #fff;
-            color: #000;
+            background: #666666;
+            color: #666666;
         }
         #menu ul a:hover,
         #menu ul a:focus,
         #menu ul mark a:hover,
         #menu ul mark a:focus {
             background: #ccc;
-            color: #000;
+            color: #666666;
         }
         #menu ul a:active,
         #menu ul mark a:active {
             background: green;
-            color: #fff;
+            color: #666666;
         }
     .home #menu {
         position: static;
@@ -443,7 +443,7 @@ nav mark a:focus {
         }
         .home #menu a {
             border-radius: 5px;
-            color: #000;
+            color: #666666;
         }
         .home #menu mark a {
             background: #000;
@@ -454,7 +454,7 @@ nav mark a:focus {
         .home #menu ul mark a:hover,
         .home #menu ul mark a:focus {
             background: #ccc;
-            color: #000;
+            color: #666666;
         }
         .home #menu h1.hidden,
         .home #menu ul .hidden {
@@ -476,7 +476,7 @@ nav mark a:focus {
                 border-top: 1px solid #ccc;
             }
     .home #menu-close::before {
-        color: #000;
+        color: #666666;
         content: "^ Return to the top";
         display: inline-block;
         font-size: .75em;
