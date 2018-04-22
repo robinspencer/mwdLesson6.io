@@ -1,12 +1,18 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Loop_%281989%29.jpg/559px-Loop_%281989%29.jpg" alt=" ">
 
-<div class="topnav" id="myTopnav">
-  <a href="index" class="active">About</a>
-  <a href="career">Career</a>
-  <a href="reformation">Reformation</a>
-  <a href="discography">Discography</a>
-  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-</div>
+<a id="nav-jump" href="#menu"><b class="hidden">Jump to the</b> Menu</a>
+
+<nav id="menu" tabindex="-1" role="navigation">
+  <li><mark><a href="index">About</a></mark></li>
+	<li><a href="career">Career</a></li>
+	<li><a href="discography">Discography</a></li>
+	<li><a href="reformation">Reformation</a></li>
+  
+  <a id="menu-close" href="#banner"></a>
+</nav>
+
+  
+
 
 
 <div class="contentdiv">
