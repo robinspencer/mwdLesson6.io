@@ -190,17 +190,12 @@ nav {
     outline: none;
 }
 nav ul {
-    background: #fff;
-    background-color: rgba(255, 255, 255, .95);
-    color: #666666;
     border-top: 1px solid;
     list-style: none;
     margin: 0;
     padding: 0;
 }
 nav a {
-    border-bottom: 1px solid #000;
-    color: #666666;
     display: block;
     line-height: 2;
     padding: 0 1em;
@@ -212,15 +207,13 @@ nav a {
 }
 nav mark a {
     background: #000;
-    color: #666666;
 }
 nav ul a:hover,
 nav ul a:focus,
 nav mark a:hover,
 nav mark a:focus {
-  background-color: #e8e7e3;
-  color: #069;
-  transition: background-color .5s ease-in;
+  background: #e8e7e3;
+  transition: background .5s ease-in;
     -webkit-transition: background .5s;
        -moz-transition: background .5s;
         -ms-transition: background .5s;
@@ -445,7 +438,6 @@ nav mark a:focus {
         }
         .home #menu a {
             border-radius: 5px;
-            color: #666666;
         }
         .home #menu mark a {
             background: #000;
@@ -455,9 +447,8 @@ nav mark a:focus {
         .home #menu ul a:focus,
         .home #menu ul mark a:hover,
         .home #menu ul mark a:focus {
-              background-color: #e8e7e3;
-              color: #069;
-              transition: background-color .5s ease-in;
+              background: #e8e7e3;
+              transition: background .5s ease-in;
         }
         .home #menu h1.hidden,
         .home #menu ul .hidden {
@@ -479,7 +470,6 @@ nav mark a:focus {
                 border-top: 1px solid #ccc;
             }
     .home #menu-close::before {
-        color: #666666;
         content: "^ Return to the top";
         display: inline-block;
         font-size: .75em;
